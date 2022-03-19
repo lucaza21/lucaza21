@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucaza21
+- 👋 Hi, @lucaza21 here
 - 👀 I’m interested in software development and renewable energies.
 - 🌱 I’m currently learning full stack web development MERN
 - 💞️ I’m looking to collaborate on world wide projects 
