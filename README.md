@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 👋 Hi, @lucaza21 here.<br>- 👀 I’m interested in software development and renewable energies.<br>- 🌱 I’m currently learning full stack web development MERN<br>- 💞️ I’m looking to collaborate on world wide projects <br>- 📫 How to reach me: luis.carrasquilla.z@gmail.com
+# ⚡ About Me:
+- 👋 Hi, @lucaza21 here.<br>- 👀 I’m interested in software development and renewable energies.<br>- 🌱 I’m currently learning full stack web development MERN<br>- 🔭 I’m looking to collaborate on world wide projects <br>- 📫 How to reach me: luis.carrasquilla.z@gmail.com
 
 
 ## 🌐 Socials:
